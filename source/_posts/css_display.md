@@ -1,5 +1,7 @@
 ---
 title: css中的display的contents属性
+date: 2025-09-02 10:00:00
+updated: 2025-09-02 11:00:00
 ---
 
 # display 中一个不常用的属性 contents 
