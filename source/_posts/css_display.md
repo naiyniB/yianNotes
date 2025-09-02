@@ -1,5 +1,5 @@
 ---
-title: 硬链接和软链接
+title: css中的display的contents属性
 ---
 
 # display 中一个不常用的属性 contents 
