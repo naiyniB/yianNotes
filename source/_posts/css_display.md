@@ -1,3 +1,7 @@
+---
+title: 硬链接和软链接
+---
+
 # display 中一个不常用的属性 contents 
 
 `display: contents` 是 CSS Display Module Level 3 中引入的一个比较特殊且强大的值。它的作用是：**让一个元素本身不产生任何盒模型（即不渲染），但它的子元素会像直接继承了该元素的父元素一样正常渲染**。
