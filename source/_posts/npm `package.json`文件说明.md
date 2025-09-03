@@ -4,7 +4,11 @@ date: 2025-09-01 10:00:00
 updated: 2025-09-02 11:00:00
 ---
 
----
+> npm（Node Package Manager） 是一个 包管理工具（Package Manager），它的主要职责是：
+>- 安装依赖：npm install lodash
+>- 发布包：npm publish（把你的代码发布到 npm 仓库）
+>- 管理版本：通过 package.json 和 package-lock.json
+>- 运行脚本：通过 npm run build、npm run dev 等
 
 ## ✅ 一句话总结
 
