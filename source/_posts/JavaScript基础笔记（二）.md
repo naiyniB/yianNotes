@@ -1,5 +1,5 @@
 ---
-title: 📚 JavaScript 对象与原型链
+title: JavaScript 对象与原型链
 date: 2025.9.1
 ---
 

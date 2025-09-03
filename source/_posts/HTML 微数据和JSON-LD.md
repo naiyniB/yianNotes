@@ -1,10 +1,8 @@
 ---
-title: 微数据和Json-LD
+title: HTML 微数据和JSON-LD
 date: 2025-09-01 10:00:00
 updated: 2025-09-02 11:00:00
 ---
-
-# 微数据和Json-LD
 
 ## 用途
 

@@ -1,5 +1,5 @@
 ---
-title: npm workspace monorepo 技术栈
+title: npm  package “workspace” 实现 monorepo 工程
 date: 2025-09-01 10:00:00
 updated: 2025-09-02 11:00:00
 ---

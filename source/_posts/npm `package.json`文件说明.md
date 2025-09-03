@@ -1,5 +1,5 @@
 ---
-title: 📦npm `package.json` 的作用
+title: npm `package.json` 文件说明
 date: 2025-09-01 10:00:00
 updated: 2025-09-02 11:00:00
 ---
@@ -186,8 +186,3 @@ npm run build   → 执行 babel src -d lib
 
 > `package.json` 是 **现代 JavaScript 项目的“身份证 + 操作手册 + 依赖清单”三位一体的核心文件**。  
 > 没有它，npm 就不知道你是谁、用什么、怎么运行。
-
----
-
-现在你对 `package.json` 的理解就非常完整了！🎉  
-如果你要开发任何 JS 项目（前端、后端、工具库），都绕不开它。

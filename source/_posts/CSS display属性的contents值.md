@@ -1,5 +1,5 @@
 ---
-title: css中的display的contents属性
+title: CSS属性 display属性的contents值
 date: 2025-09-02 10:00:00
 updated: 2025-09-02 11:00:00
 ---
@@ -113,7 +113,7 @@ updated: 2025-09-02 11:00:00
 
 结果：`.item` 直接成为 grid item，占据两列，而 `.item-wrapper` 不占空间。
 
-#### 3. **与 `::before` / `::after` 配合生成内容**
+#### 3. **子元素与 `::before` / `::after` 配合生成内容**
 由于 `display: contents` 不渲染自身，但子元素可渲染，所以可以配合伪元素“注入”内容而不影响布局。
 
 ---
