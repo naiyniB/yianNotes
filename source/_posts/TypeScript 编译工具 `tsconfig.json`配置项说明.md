@@ -15,3 +15,18 @@ date: 2025-09-03 13:00
     - "ES2016"、"ES2017"、"ES2020"、"ESNext"（最新语法）
 2. module:
   - **作用：**指定模块系统的代码生成格式。
+  - 常见值：
+    - "commonjs" → 用于 Node.js（使用 require / module.exports）
+    - "es2015" / "esnext" → 用于浏览器（使用 import / export）
+    - "amd"、"umd" → 用于老项目或库打包
+3. strict: true
+  - **作用：**开启所有严格类型检查模式
+4. outDir:
+  - **作用：**指定编译后生成的 .js 文件输出到哪个文件夹
+5. rootDir:
+  - **作用：**源文件的“根目录”是哪里
+6. removeComments:true
+  - **作用：**编译时是否移除代码中的注释
+7. noEmit:false
+  - **作用：**当设置为 true 时，TypeScript 只进行类型检查，不生成任何输出文件（如 .js、.d.ts、.map 等）。
+8. 

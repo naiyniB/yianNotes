@@ -1,5 +1,5 @@
 ---
-title:  npm package "入口"
+title:  npm package.json "入口"
 date: 2025-09-01 10:00:00
 updated: 2025-09-02 11:00:00
 ---
